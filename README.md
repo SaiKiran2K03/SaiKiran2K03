@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiKiran2K03
-- 👀 I’m interested in Programming, Ethical Hacking and Android development.
+- 👀 I’m interested in Programming, Machine Learning and Data Science.
 - 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on Python and ComputerVision Based Applications.
 - 📫 How to reach me Instagram- @sa1.k1ran
